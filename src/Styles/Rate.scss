@@ -1,0 +1,19 @@
+.rate-list{
+  .item-title{
+    .item-header{
+      font-size: 1.25em;
+    }
+    .item-header.item-author{
+      font-size: 1em;
+      color:gray;
+    }
+  }
+  .star-container{
+    .unfill{
+      color: gray;
+    }
+    .fill{
+      color: #F4A04E;
+    }
+  }
+} 
